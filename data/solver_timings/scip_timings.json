@@ -1,0 +1,3680 @@
+[
+    {
+        "problem": "miplib-22433",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.036239544017007574,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 21240.526170798898
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.03829246599343605,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 21240.526167665183
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.03260591201251373,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 21240.5261707989
+            }
+        ]
+    },
+    {
+        "problem": "miplib-23588",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.02046791499014944,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 7649.866133822501
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.027871208993019536,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 7649.866133357448
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.017733016022248194,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 7649.866133822501
+            }
+        ]
+    },
+    {
+        "problem": "miplib-assign1-5-8",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.0505917539994698,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 183.36255497382206
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.04553763000876643,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 183.36255497517675
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.055730369000229985,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 183.362554973822
+            }
+        ]
+    },
+    {
+        "problem": "miplib-b-ball",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.013410810992354527,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -1.8181818181818183
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.01509753501159139,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -1.8181818181798581
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.021366123983170837,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -1.8181818181818183
+            }
+        ]
+    },
+    {
+        "problem": "miplib-beavma",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.012162919010734186,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 155777.6278471038
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.014656696992460638,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 216215.9536644717
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.01542547601275146,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 155777.6278471038
+            }
+        ]
+    },
+    {
+        "problem": "miplib-blend2",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.0215958229964599,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 6.915675114007172
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.020702986977994442,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 6.915675117632418
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.028069777006749064,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 6.915675114008991
+            }
+        ]
+    },
+    {
+        "problem": "miplib-bppc8-02",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.021745666017523035,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 486.5
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.026566346001345664,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 486.5000001754266
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.02142831397941336,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 486.5
+            }
+        ]
+    },
+    {
+        "problem": "miplib-control30-3-2-3",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.0356269370240625,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -20763026.783444367
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.06588546402053908,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -20763026.783197213
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.028087165002943948,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -20763026.78286454
+            }
+        ]
+    },
+    {
+        "problem": "miplib-dcmulti",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.027871858997968957,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 183975.53969317523
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.022388528974261135,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 183975.53969935223
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.021129564003786072,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 183975.53969317523
+            }
+        ]
+    },
+    {
+        "problem": "miplib-ej",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.0006408409972209483,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1.0
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.0005940130213275552,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.9999999999300635
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.0005916009831707925,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1.0
+            }
+        ]
+    },
+    {
+        "problem": "miplib-enlight4",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.0008309950062539428,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.0009314590133726597,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.0007472780125681311,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            }
+        ]
+    },
+    {
+        "problem": "miplib-enlight8",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.0014031999744474888,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.0013523679808713496,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.0013814830163028091,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            }
+        ]
+    },
+    {
+        "problem": "miplib-enlight9",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.001582755008712411,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.0017826879920903593,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.0016278309922199696,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            }
+        ]
+    },
+    {
+        "problem": "miplib-enlight11",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.0019999380165245384,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.001997149985982105,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.0019326570036355406,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            }
+        ]
+    },
+    {
+        "problem": "miplib-enlight_hard",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.0018498919962439686,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.0018662379879970104,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.0020803709921892732,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            }
+        ]
+    },
+    {
+        "problem": "miplib-f2gap40400",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.010984776017721742,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 20650.898153963248
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.012965179019374773,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 20650.898154058024
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.00880628899903968,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 20650.898153963248
+            }
+        ]
+    },
+    {
+        "problem": "miplib-fhnw-sq2",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.02766627399250865,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.02808280399767682,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.02703244599979371,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            }
+        ]
+    },
+    {
+        "problem": "miplib-flugpl",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.002481814008206129,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1167185.7255923203
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.002774752996629104,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1167185.7257593467
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.0024284230021294206,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1167185.7255923203
+            }
+        ]
+    },
+    {
+        "problem": "miplib-flugplinf",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.0025700700061861426,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1167185.7255923203
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.0025001920002978295,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1167185.7255214248
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.0026346129889134318,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1167185.7255923203
+            }
+        ]
+    },
+    {
+        "problem": "miplib-g503inf",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.0030807860021013767,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 195.92377309482964
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.003023369994480163,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 195.92377308803037
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.0029060109809506685,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 195.92377309482976
+            }
+        ]
+    },
+    {
+        "problem": "miplib-gen-ip002",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.009858553996309638,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -4840.541961301324
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.00941806798800826,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -4840.541961151265
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.008748378022573888,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -4840.541961300889
+            }
+        ]
+    },
+    {
+        "problem": "miplib-gen-ip016",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.0057745620142668486,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -9505.628172756067
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.005598755000391975,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -9505.62817282759
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.0042653690034057945,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -9505.628172760295
+            }
+        ]
+    },
+    {
+        "problem": "miplib-gen-ip021",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.010405424982309341,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 2327.842584486698
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.009548571979394183,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 2327.842584464164
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.009696427994640544,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 2327.8425844887574
+            }
+        ]
+    },
+    {
+        "problem": "miplib-gen-ip054",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.006222299009095877,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 6765.209042598658
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.0050226899911649525,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 6765.209042593152
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.005030308006098494,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 6765.209042593413
+            }
+        ]
+    },
+    {
+        "problem": "miplib-glass4",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.023171778011601418,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 800002405.3248059
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.023781240015523508,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 800002400.541784
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.03167659300379455,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 800002400.0
+            }
+        ]
+    },
+    {
+        "problem": "miplib-gr4x6",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.0031801810255274177,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 185.55
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.0026365369849372655,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 185.55000000014286
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.0025935860176105052,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 185.55
+            }
+        ]
+    },
+    {
+        "problem": "miplib-graphdraw-gemcutter",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.015711116982856765,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 4310.0
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.014198711985955015,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 4309.99999999136
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.011901480000233278,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 4310.0
+            }
+        ]
+    },
+    {
+        "problem": "miplib-gt2",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.005256025004200637,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 13460.233074411866
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.005344478995539248,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 13460.233074900752
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.005209994997130707,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 13460.233074411924
+            }
+        ]
+    },
+    {
+        "problem": "miplib-ic97_tension",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.022527850000187755,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 3892.0
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.021762418997241184,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 3891.999999950075
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.020079504989553243,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 3892.0
+            }
+        ]
+    },
+    {
+        "problem": "miplib-k16x240b",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.010692910989746451,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 3320.771
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.00852706198929809,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 3320.771
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.008241789997555315,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 3320.771
+            }
+        ]
+    },
+    {
+        "problem": "miplib-mad",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.0375821819761768,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.041336699010571465,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.030102894990704954,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 2.42861286636753e-16
+            }
+        ]
+    },
+    {
+        "problem": "miplib-markshare1",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.003444089990807697,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -9.094947017729282e-13
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.003654572006780654,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -9.094947017729282e-13
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.003346023993799463,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            }
+        ]
+    },
+    {
+        "problem": "miplib-markshare2",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.0041747899958863854,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.003929214988602325,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.003781665989663452,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            }
+        ]
+    },
+    {
+        "problem": "miplib-markshare_4_0",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.0026262589963153005,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.0028195109916850924,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.0026364150107838213,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            }
+        ]
+    },
+    {
+        "problem": "miplib-markshare_5_0",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.0028784690075553954,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.0029730679816566408,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.0028693820058833808,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            }
+        ]
+    },
+    {
+        "problem": "miplib-mas74",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.017122732009738684,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 10482.795291588181
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.01778537902282551,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 10482.795293036184
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.015545734000625089,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 10482.795291488683
+            }
+        ]
+    },
+    {
+        "problem": "miplib-mas76",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.014966367976740003,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 38893.90364044711
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.016852294997079298,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 38893.9036388361
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.014276182017056271,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 38893.903640294244
+            }
+        ]
+    },
+    {
+        "problem": "miplib-misc05inf",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.038807301025372,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 2930.9
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.043052463995991275,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 2930.900000288797
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.03634230999159627,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 2930.9
+            }
+        ]
+    },
+    {
+        "problem": "miplib-mod008inf",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.012148587993578985,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 290.93107271496876
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.009623167978134006,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 290.9310727057748
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.00876965100178495,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 290.93107271496876
+            }
+        ]
+    },
+    {
+        "problem": "miplib-neos-1425699",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.00506077500176616,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 3175204364.6352973
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.004388275003293529,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 3175204364.6352973
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.004329269984737039,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 3175204364.6352973
+            }
+        ]
+    },
+    {
+        "problem": "miplib-neos-2624317-amur",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.020290489017497748,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.025345639005536214,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.024563650018535554,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            }
+        ]
+    },
+    {
+        "problem": "miplib-neos-2626858-aoos",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.02768413201556541,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 2.306188753325887
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.032741710980189964,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 2.306188748777747
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.02523247999488376,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 2.306188753535555
+            }
+        ]
+    },
+    {
+        "problem": "miplib-neos-2652786-brda",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.019081167003605515,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.021867977979127318,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.018298126000445336,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            }
+        ]
+    },
+    {
+        "problem": "miplib-neos-2656603-coxs",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.023827384982723743,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.01833638799143955,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.01764691501739435,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            }
+        ]
+    },
+    {
+        "problem": "miplib-neos-2657525-crna",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.02127797799766995,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.02206225899863057,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.01692810098757036,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            }
+        ]
+    },
+    {
+        "problem": "miplib-neos-3046601-motu",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.014715089986566454,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 185.0000016588799
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.015542634995654225,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 185.00000144780665
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.01282178598921746,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 185.0
+            }
+        ]
+    },
+    {
+        "problem": "miplib-neos-3046615-murg",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.013005593995330855,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 192.00000135168
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.012847944017266855,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 192.0
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.01096253001014702,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 192.0
+            }
+        ]
+    },
+    {
+        "problem": "miplib-neos-3072252-nete",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.017843051988165826,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 10593525.999992833
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.018728369002928957,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 10593526.00006332
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.016369287011912093,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 10593526.0
+            }
+        ]
+    },
+    {
+        "problem": "miplib-neos-3610040-iskar",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.01864191799541004,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 33.84527777777778
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.01883075400837697,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 33.84527777910366
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.01612166900304146,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 33.84527777777778
+            }
+        ]
+    },
+    {
+        "problem": "miplib-neos-3611447-jijia",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.018226329993922263,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 94.21625
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.018459096987498924,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 94.21624999399631
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.014741468010470271,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 94.21625
+            }
+        ]
+    },
+    {
+        "problem": "miplib-neos-3611689-kaihu",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.01719407900236547,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 100.87875
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.01923219399759546,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 100.87874999868156
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.017423806013539433,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 100.87875
+            }
+        ]
+    },
+    {
+        "problem": "miplib-neos-3754480-nidda",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.030081875011092052,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -1216923.2703624459
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.024556396005209535,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -1216923.270424065
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.021054072014521807,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -1216923.2702021166
+            }
+        ]
+    },
+    {
+        "problem": "miplib-neos-5140963-mincio",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.019626077002612874,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 8877.0
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.00961126500624232,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 8876.999999956024
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.008330218988703564,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 8877.0
+            }
+        ]
+    },
+    {
+        "problem": "miplib-neos-5192052-neckar",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.008675640012370422,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -11980000.0
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.007302485988475382,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -11980000.001233175
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.006725287006702274,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -11980000.0
+            }
+        ]
+    },
+    {
+        "problem": "miplib-neos5",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.012333582009887323,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 13.0
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.014400218991795555,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 12.999999998968189
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.010626950999721885,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 13.0
+            }
+        ]
+    },
+    {
+        "problem": "miplib-neos859080",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.016268832987407222,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1.0
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.015340512007242069,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.999999999959622
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.012046895019011572,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1.0
+            }
+        ]
+    },
+    {
+        "problem": "miplib-nexp-50-20-1-1",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.015139521012315527,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 12.030303030303031
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.014400596992345527,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 12.030303030303031
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.010082057007821277,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 12.030303030303031
+            }
+        ]
+    },
+    {
+        "problem": "miplib-noswot",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.014359632012201473,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -43.0
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.010981819010339677,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -43.00000000139847
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.015789657016284764,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -43.0
+            }
+        ]
+    },
+    {
+        "problem": "miplib-opt1217",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.02593007098766975,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -20.02139037433155
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.023429872991982847,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -20.021390376364565
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.017590712988749146,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -20.021390374331553
+            }
+        ]
+    },
+    {
+        "problem": "miplib-p2m2p1m1p0n100",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.009089213999686763,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 80424.0
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.008636698999907821,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 80424.0
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.007166850002249703,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 80424.0
+            }
+        ]
+    },
+    {
+        "problem": "miplib-p0201",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.015565791021799669,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 6875.0
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.016680685977917165,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 6874.999999899176
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.01905587999499403,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 6875.0
+            }
+        ]
+    },
+    {
+        "problem": "miplib-pb-market-split8-70-4",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.02180292599950917,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.010623031004797667,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.012454551993869245,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            }
+        ]
+    },
+    {
+        "problem": "miplib-pk1",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.013970992993563414,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.015486609016079456,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.00990291900234297,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.0
+            }
+        ]
+    },
+    {
+        "problem": "miplib-ran12x21",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.012483518017688766,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 3157.3774420257255
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.01086986399604939,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 3157.3774420324003
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.008843812014674768,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 3157.3774420257255
+            }
+        ]
+    },
+    {
+        "problem": "miplib-ran13x13",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.009299550001742318,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 2691.439468864469
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.006800626986660063,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 2691.439468862857
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.006171638990053907,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 2691.439468864469
+            }
+        ]
+    },
+    {
+        "problem": "miplib-rlp1",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.07744751599966548,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 13.244444444444447
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.059042713983217254,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 13.244444445424127
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.053498695022426546,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 13.244444444444444
+            }
+        ]
+    },
+    {
+        "problem": "miplib-rout",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.09932523898896761,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 981.8642857142856
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.07236445200396702,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 981.8642857239163
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.06353231699904427,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 981.8642857142859
+            }
+        ]
+    },
+    {
+        "problem": "miplib-sp150x300d",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.015697232011007145,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 4.891111839947523
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.01204251399030909,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 4.891111839947525
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.051326362998224795,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 4.8911118399475235
+            }
+        ]
+    },
+    {
+        "problem": "miplib-stein9inf",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.007793386990670115,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 4.0
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.010717138007748872,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 4.0000000003168745
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.006744168000295758,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 4.0
+            }
+        ]
+    },
+    {
+        "problem": "miplib-stein15inf",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.00866995201795362,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 7.0
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.0077906069927848876,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 7.0
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.007359723007539287,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 7.0
+            }
+        ]
+    },
+    {
+        "problem": "miplib-stein45inf",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.020100391004234552,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 22.0
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.019627155998023227,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 22.000000000154355
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.016241414996329695,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 22.0
+            }
+        ]
+    },
+    {
+        "problem": "miplib-supportcase14",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.015882903011515737,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 272.0
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.01486660199589096,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 272.0000000021032
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.01225165999494493,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 272.0
+            }
+        ]
+    },
+    {
+        "problem": "miplib-supportcase16",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.012445783009752631,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 272.0
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.015565387991955504,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 271.99999999598447
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.01059886600705795,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 272.0
+            }
+        ]
+    },
+    {
+        "problem": "miplib-timtab1",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.008457314019324258,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 28694.0
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.008465834020171314,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 28693.999999999996
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.007328979001613334,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 28694.0
+            }
+        ]
+    },
+    {
+        "problem": "miplib-timtab1CUTS",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.03350540000246838,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 613590.0954255125
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.03547288299887441,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 613590.0954254159
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.021147272986127064,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 613590.095426039
+            }
+        ]
+    },
+    {
+        "problem": "netlib-25FV47",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 1.4862787489837501,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 5468.3804344901055
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 1.4841224790143315,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 5465.307103429917
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.7652622060268186,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 5501.8458882868845
+            }
+        ]
+    },
+    {
+        "problem": "netlib-ADLITTLE",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.008579176996136084,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 225494.96316238042
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.008037471008719876,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 225494.96314400868
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.007387435995042324,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 225494.96316238004
+            }
+        ]
+    },
+    {
+        "problem": "netlib-AFIRO",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.0033747700217645615,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -464.75314285714285
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.0031243679986801,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -464.75314295784835
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.002715826005442068,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -464.75314285714313
+            }
+        ]
+    },
+    {
+        "problem": "netlib-AGG",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.016771079011959955,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -35991767.2866673
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.018259786011185497,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -35991767.28678265
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.010433313000248745,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -35991767.28657652
+            }
+        ]
+    },
+    {
+        "problem": "netlib-AGG2",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.036031714000273496,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -20283986.55593872
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.033783076010877267,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -20239252.306934357
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.01850751298479736,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -20239252.355977107
+            }
+        ]
+    },
+    {
+        "problem": "netlib-AGG3",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.01007079699775204,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": null
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.007477684004697949,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": null
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.01708974697976373,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 10312115.93508923
+            }
+        ]
+    },
+    {
+        "problem": "netlib-BANDM",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.03574583900626749,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -158.62801845012083
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.02889132799464278,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -158.62801845436138
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.027484674006700516,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -158.6280184501203
+            }
+        ]
+    },
+    {
+        "problem": "netlib-BEACONFD",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.010623560985550284,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 33592.48580720003
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.012040058994898573,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 33592.48580691674
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.00755478601786308,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 33592.485807200006
+            }
+        ]
+    },
+    {
+        "problem": "netlib-BLEND",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.007906040991656482,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -30.812149845828245
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.009750778990564868,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -30.81214983916918
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.006901387998368591,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -30.812149845828202
+            }
+        ]
+    },
+    {
+        "problem": "netlib-BNL1",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.13203594199148938,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1977.595582555138
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.14886802600813098,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1977.6294726778797
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.0880587509891484,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1977.6295615228864
+            }
+        ]
+    },
+    {
+        "problem": "netlib-BOEING1",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.03896604702458717,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -335.21356730311277
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.04829482300556265,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -335.21356745092544
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.031992258998798206,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -335.21356750712664
+            }
+        ]
+    },
+    {
+        "problem": "netlib-BOEING2",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.01446374601800926,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -315.0187284319892
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.017516230989713222,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -315.0187279982256
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.007622711011208594,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -315.0187280152029
+            }
+        ]
+    },
+    {
+        "problem": "netlib-BORE3D",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.009212934004608542,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 315.1458234356487
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.0024684640229679644,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": null
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.00850188301410526,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1373.0803942084922
+            }
+        ]
+    },
+    {
+        "problem": "netlib-BRANDY",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.04013873400981538,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1518.5098964881283
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.029631189012434334,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1518.5098964881286
+            }
+        ]
+    },
+    {
+        "problem": "netlib-CAPRI",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.025326041009975597,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 2688.5848937449164
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.021650736016454175,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 2688.5848938750196
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.017842967994511127,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 2690.0129137681606
+            }
+        ]
+    },
+    {
+        "problem": "netlib-DEGEN2",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.079674923006678,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -1435.1779999999999
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.07451070501701906,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -1435.1779999611963
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.06124697101768106,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -1435.1779999999999
+            }
+        ]
+    },
+    {
+        "problem": "netlib-DEGEN3",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 1.2440851269930135,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -987.2940000000001
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.911941989994375,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -987.2940000153195
+            },
+            {
+                "version": "orig",
+                "mean_time": 1.0367996620188933,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -987.294
+            }
+        ]
+    },
+    {
+        "problem": "netlib-E226",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.062463412003125995,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -18.751929066371446
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.05669341000611894,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -18.75192907033476
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.03760333699756302,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -11.638929066370544
+            }
+        ]
+    },
+    {
+        "problem": "netlib-ETAMACRO",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.043117800989421085,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -755.7152333764716
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.03249353700084612,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -755.7152357000042
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.03526227700058371,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -755.7152333443511
+            }
+        ]
+    },
+    {
+        "problem": "netlib-FFFFF800",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.16082854999694973,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 555679.5648174842
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.18328279998968355,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 555679.5648258745
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.14200819801772013,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 555679.564817488
+            }
+        ]
+    },
+    {
+        "problem": "netlib-FINNIS",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.012164525018306449,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": null
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.013186859985580668,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": null
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.03230088998680003,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 172791.0655956116
+            }
+        ]
+    },
+    {
+        "problem": "netlib-FIT1D",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.08106855201185681,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -9146.378092420926
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.09153290002723224,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -9146.378092509642
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.12123452799278311,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -9146.378092420926
+            }
+        ]
+    },
+    {
+        "problem": "netlib-FIT1P",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.31258573502418585,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 9146.378092420928
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.29996073598158546,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 9146.378092345803
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.2504317830025684,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 9146.378092420928
+            }
+        ]
+    },
+    {
+        "problem": "netlib-FORPLAN",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.06256757801747881,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -664.2189612722057
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.056112468999344856,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -664.2189612894728
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.03029908100143075,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -664.2189612722118
+            }
+        ]
+    },
+    {
+        "problem": "netlib-GANGES",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.09457709800335579,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -109585.73612926248
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.0860991959925741,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -109585.72348326191
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.06457225201302208,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -109585.73612953782
+            }
+        ]
+    },
+    {
+        "problem": "netlib-GFRD-PNC",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.03491502601536922,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 6902235.99954881
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.030943087011110038,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 6902235.999540475
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.028654310997808352,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 6902235.99954881
+            }
+        ]
+    },
+    {
+        "problem": "netlib-GROW7",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.03461389601579867,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -47787811.81471188
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.039602103002835065,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -47787811.81415097
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.028001098020467907,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -47787811.81471152
+            }
+        ]
+    },
+    {
+        "problem": "netlib-GROW15",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.12374833098147064,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -106870941.2935736
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.10651426398544572,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -106870941.30530792
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.08224606001749635,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -106870941.29357536
+            }
+        ]
+    },
+    {
+        "problem": "netlib-GROW22",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.2131680969905574,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -160834336.48256296
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.24271919199964032,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -160834336.52287647
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.22035917598986998,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -160834336.48256287
+            }
+        ]
+    },
+    {
+        "problem": "netlib-ISRAEL",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.031562785006826743,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -896644.8218630459
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.03753805300220847,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -896644.8219014716
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.016601701005129144,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -896644.8218630458
+            }
+        ]
+    },
+    {
+        "problem": "netlib-KB2",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.004696933989180252,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -1749.9001299062058
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.00432954597636126,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -1749.900130106232
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.0039001750119496137,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -1749.900129906206
+            }
+        ]
+    },
+    {
+        "problem": "netlib-LOTFI",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.012229321990162134,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -25.26470606166484
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.012272794003365561,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -25.264706059285515
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.009700864990008995,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -25.26470606188002
+            }
+        ]
+    },
+    {
+        "problem": "netlib-MAROS",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.03238958801375702,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": null
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.010351400007493794,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": null
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.10109078799723648,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -58063.74370112592
+            }
+        ]
+    },
+    {
+        "problem": "netlib-MODSZK1",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.0493907299824059,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 320.619729064233
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.04319191200193018,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 320.61982060912464
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.032673149020411074,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 320.6197290634139
+            }
+        ]
+    },
+    {
+        "problem": "netlib-PEROLD",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.8648034159850795,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -9400.060239073275
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.8874737200094387,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -9388.959085197688
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.32495621201815084,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -9380.755278235072
+            }
+        ]
+    },
+    {
+        "problem": "netlib-PILOT4",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.21714444900862873,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -2581.2410891961968
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.24536196197732352,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -2585.204524797883
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.12603523099096492,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -2581.139260766512
+            }
+        ]
+    },
+    {
+        "problem": "netlib-RECIPE",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.01391016601701267,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -266.61599999999993
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.02160266600549221,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -266.61599999999993
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.00840416201390326,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -266.6159999999999
+            }
+        ]
+    },
+    {
+        "problem": "netlib-SC50A",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.003348711004946381,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -64.5750770585645
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.004064291977556422,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -64.57507705505657
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.0027922669833060354,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -64.5750770585645
+            }
+        ]
+    },
+    {
+        "problem": "netlib-SC50B",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.004003162001026794,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -70.0
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.0032187720062211156,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -70.00000001321754
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.002825261006364599,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -69.99999999999997
+            }
+        ]
+    },
+    {
+        "problem": "netlib-SC105",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.005363427015254274,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -52.202061211707246
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.005067220015916973,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -52.20206119517669
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.004870520991971716,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -52.20206121170723
+            }
+        ]
+    },
+    {
+        "problem": "netlib-SC205",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.009418900008313358,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -52.20206121170722
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.009310555993579328,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -52.20206119820693
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.006738715019309893,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -52.20206121170724
+            }
+        ]
+    },
+    {
+        "problem": "netlib-SCAGR7",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.007264259998919442,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -2331389.8243309837
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.006713546987157315,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -2331389.823298742
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.005678290996002033,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -2331389.8243309837
+            }
+        ]
+    },
+    {
+        "problem": "netlib-SCAGR25",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.021856702980585396,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -14753433.060768526
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.021389940986409783,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -14753433.061320817
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.01674699698924087,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -14753433.060768522
+            }
+        ]
+    },
+    {
+        "problem": "netlib-SCFXM1",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.04337257199222222,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 18401.079247861722
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.04884477501036599,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 18401.079248660022
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.02909846801776439,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 18416.75902834894
+            }
+        ]
+    },
+    {
+        "problem": "netlib-SCFXM3",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.00759030701010488,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": null
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.008007525000721216,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": null
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.10451001199544407,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 54901.254549751444
+            }
+        ]
+    },
+    {
+        "problem": "netlib-SCORPION",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.015490831981878728,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1878.124822738107
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.006615418998990208,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": null
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.009740236011566594,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1878.1248227381068
+            }
+        ]
+    },
+    {
+        "problem": "netlib-SCRS8",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.06362880699452944,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 904.2969538056155
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.06510311100282706,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 904.2969539767704
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.04331223398912698,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 904.2969538007915
+            }
+        ]
+    },
+    {
+        "problem": "netlib-SCSD1",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.026635173009708524,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 8.500000007796439
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.02627868199488148,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 8.583333340615878
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.021001421002438292,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 8.666666674333365
+            }
+        ]
+    },
+    {
+        "problem": "netlib-SCSD6",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.06023861200083047,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 50.39423084621248
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.06441970300511457,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 50.29807699634045
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.046285666001494974,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 50.500000078019326
+            }
+        ]
+    },
+    {
+        "problem": "netlib-SCTAP1",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.026320842996938154,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1412.25
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.026437127991812304,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1412.2499998148103
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.017874398996355012,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1412.2499999999998
+            }
+        ]
+    },
+    {
+        "problem": "netlib-SEBA",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.012563829019200057,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 15711.599999999999
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.017765600001439452,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 15711.600000000075
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.011187160009285435,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 15711.6
+            }
+        ]
+    },
+    {
+        "problem": "netlib-SHARE1B",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.019348375004483387,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -76589.31857918556
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.02042568300385028,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -76589.3184948113
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.013509646989405155,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -76589.31857918558
+            }
+        ]
+    },
+    {
+        "problem": "netlib-SHARE2B",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.008801054005743936,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -415.7322407414165
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.00940734101459384,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -415.7322396265125
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.007723237999016419,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -415.7322407414168
+            }
+        ]
+    },
+    {
+        "problem": "netlib-SHELL",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.038689389009959996,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1208825346.0
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.04462518100626767,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": null
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.03372777899494395,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1208825346.0
+            }
+        ]
+    },
+    {
+        "problem": "netlib-SHIP04L",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.05908860400086269,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1793324.5379703555
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.051424075005343184,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1793324.5380477489
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.04770079199806787,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1793324.5379703555
+            }
+        ]
+    },
+    {
+        "problem": "netlib-SHIP04S",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.03324491699459031,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1798714.7004453922
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.03181334902183153,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1798714.7005230773
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.031483493017731234,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1798714.700445392
+            }
+        ]
+    },
+    {
+        "problem": "netlib-SHIP08S",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.052371405996382236,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1920098.2105345835
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.055755863984813914,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1920098.2105273774
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.04488342799595557,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1920098.2105346196
+            }
+        ]
+    },
+    {
+        "problem": "netlib-SHIP12S",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.057827964978059754,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1489236.1344061291
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.06313762199715711,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1489236.1343235883
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.05024428298929706,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1489236.1344061291
+            }
+        ]
+    },
+    {
+        "problem": "netlib-STAIR",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.0935123189992737,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -251.26695118769385
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.09977123897988349,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -251.2669511587912
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.05649076000554487,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -251.26695119297847
+            }
+        ]
+    },
+    {
+        "problem": "netlib-STANDATA",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.027542764990357682,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1257.699500000046
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.030818269005976617,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1257.699500007322
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.017898891994263977,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1257.6995000000002
+            }
+        ]
+    },
+    {
+        "problem": "netlib-STANDGUB",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.031128057016758248,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1257.699500000046
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.024676917993929237,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1257.699500007322
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.025161411002045497,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1257.6995000000002
+            }
+        ]
+    },
+    {
+        "problem": "netlib-STANDMPS",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.03674586900160648,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1406.017499999958
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.032810258999234065,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1406.0175000872696
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.02524903599987738,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 1406.0175
+            }
+        ]
+    },
+    {
+        "problem": "netlib-STOCFOR1",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.011367991013685241,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -41131.976219436154
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.007043130986858159,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -41131.97621916188
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.005757451988756657,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -41131.97621943643
+            }
+        ]
+    },
+    {
+        "problem": "netlib-STOCFOR2",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.16891294700326398,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -39024.40853788201
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.16168515899335034,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -38966.79888723765
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.1104676699906122,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": -39024.40853788204
+            }
+        ]
+    },
+    {
+        "problem": "netlib-TUFF",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.08318482301547192,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.29214776496601425
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.09163581399479881,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.2917146344574516
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.04401098098605871,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 0.29214776509361284
+            }
+        ]
+    },
+    {
+        "problem": "netlib-VTP.BASE",
+        "measurements": [
+            {
+                "version": "pow2_prescaled",
+                "mean_time": 0.006300806999206543,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 129831.4624613614
+            },
+            {
+                "version": "prescaled",
+                "mean_time": 0.007421781017910689,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 129831.46245761857
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.005195898993406445,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 129831.46246136139
+            }
+        ]
+    },
+    {
+        "problem": "netlib-SCFXM2",
+        "measurements": [
+            {
+                "version": "prescaled",
+                "mean_time": 0.005863122001755983,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": null
+            },
+            {
+                "version": "orig",
+                "mean_time": 0.06317446299362928,
+                "time_var": 0.0,
+                "measured_values": 1,
+                "objective_value": 36660.26156499882
+            }
+        ]
+    }
+]
